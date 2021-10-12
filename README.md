@@ -1,10 +1,12 @@
 # E-commerceBackEnd
 
 ## Description 
-    . 
+    Backend of an e-commerce site 
 
 ## Usage 
-.
+Start mysql
+npm run seed
+npm start
 
 [Click here to see a DEMO video on youtube!](https://youtu.be/gDafTJp6waQ)
 
